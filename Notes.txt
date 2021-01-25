@@ -1,0 +1,17 @@
+tasks 
+
+1. make program open WeBull and read what stocks we have and how many
+
+2. read data from on what is our value of our stock - get minute data 
+	# from where  alpha vantage 
+		# key = 39F0L5GTVJVI0RON
+		
+
+3. read data from EMA line and VMWAP
+	# form where
+
+4. if Stock is under VWAP 																			// we can buy at a good price 
+		 && if previous EMA is above the price && the current EMA is  >= the current price  		// It crossed the EMA line
+
+
+
